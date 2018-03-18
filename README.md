@@ -48,7 +48,6 @@ Some test cases for Convert.java and Search.java are included in TestCases.xlsx.
 
 Git bash commands to clone this repository:
 
-
 git init
 git clone https://github.com/obrienke1/sd1_java_project
 
